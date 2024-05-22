@@ -5,7 +5,7 @@ Ejercicio de conocimiento para empresa GCO, formulario registro de proveedores, 
 - Registro de proveedores con información detallada.
 - Listado de proveedores en la base de datos
 - Validación de datos de entrada por parte del back
-- Carga y almacenamiento de archivos PDF.
+- Carga y almacenamiento de archivos PDF en la carpeta backend.
   
 ## Tecnologías Utilizadas
 ### Backend
@@ -82,5 +82,6 @@ Asegúrate de tener instalados los siguientes programas:
 ### Notas Importantes
 - **Puerto del Backend**: El backend está configurado para ejecutarse en `localhost:8080`. Por eso, en el frontend, la dirección de la API está configurada para apuntar a este puerto.
 - **Base de Datos**: Asegúrate de que los servicios de **Apache** y **MySQL** están en ejecución en XAMPP antes de intentar iniciar el backend.
+- ** ubicacion archivo base de datos**: los archivos que cargues en el formulario en el front quedaran guardados en la carpeta de backend-formularioProveedores-upload y la ruta de este archivo quedara guardado en la base de datos
 
 ¡Eso es todo! Ahora deberías poder acceder a tu aplicación y utilizarla para registrar y listar proveedores.
