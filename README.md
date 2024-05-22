@@ -59,7 +59,7 @@ Asegúrate de tener instalados los siguientes programas:
      **Configurar la Base de Datos**
    - Abre tu navegador y visita http://localhost/phpmyadmin/index.php.
    - Crea una nueva base de datos llamada `proveedor`.
-   - Importa la base de datos utilizando el archivo `database/init.sql`. Este archivo se encuentra en la carpeta `database/` del proyecto.
+   - Importa la base de datos utilizando el archivo `proveedores.sql`. Este archivo se encuentra en la carpeta `database/` del proyecto.
 
 2. **Ejecutar el Backend con IntelliJ IDEA**
    - Navega a la carpeta del proyecto backend (`FormularioProveedores`).
