@@ -55,6 +55,11 @@ Asegúrate de tener instalados los siguientes programas:
 1. **Iniciar Apache y MySQL con XAMPP**
    - Abre **XAMPP**.
    - En el panel de control de XAMPP, inicia los servicios de **Apache** y **MySQL** haciendo clic en los botones **Start** correspondientes.
+  
+     **Configurar la Base de Datos**
+   - Abre tu navegador y visita http://localhost/phpmyadmin/index.php.
+   - Crea una nueva base de datos llamada `proveedor`.
+   - Importa la base de datos utilizando el archivo `database/init.sql`. Este archivo se encuentra en la carpeta `database/` del proyecto.
 
 2. **Ejecutar el Backend con IntelliJ IDEA**
    - Navega a la carpeta del proyecto backend (`FormularioProveedores`).
