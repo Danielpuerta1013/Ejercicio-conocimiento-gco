@@ -38,7 +38,7 @@ Ejercicio de conocimiento para empresa GCO, formulario registro de proveedores, 
 
 ### Clonar el Repositorio
 
-git clone https://github.com/tu-usuario/formulario-proveedores.git
+git clone https://github.com/danielpuerta1013/ejercicio-conocimiento-gco.git
 cd formulario-proveedores
 
 ## Instrucciones de Despliegue
